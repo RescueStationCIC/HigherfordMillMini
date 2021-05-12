@@ -1,0 +1,164 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Higherford Mill Barrowford, Pendle
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Description
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_4.description = Mechanical drive turbine rope pulley out of use, with \
+bevel gear drive on the left and blocked pentrough slot face on the right. \
+Turbine water chute at bottom right.
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_9.description = Pilling No3 Nelson single cylinder Dobby loom on single shuttle \
+loom. \
+In the foreground a row of Pilling six shuttle circular box dobby \
+looms for coloured weaving.
+
+### Subtitle
+album_49447886_453C_1844_4188_B6C052E68BC6.subtitle = A set of maps, showing the developmentof the mill at significant points
+
+### Title
+album_49447886_453C_1844_4188_B6C052E68BC6.label = Map Sequence
+album_49447886_453C_1844_4188_B6C052E68BC6_0.label = 1906 marked on 1844/48 Tithe Map
+album_49447886_453C_1844_4188_B6C052E68BC6_1.label = 1882 marked on 1844/48 Tithe Map
+album_49447886_453C_1844_4188_B6C052E68BC6_2.label = 1856 marked on 1844/48 Tithe Map
+album_49447886_453C_1844_4188_B6C052E68BC6_3.label = 1849 marked on 1844/48 Tithe Map
+album_49447886_453C_1844_4188_B6C052E68BC6_4.label = 1832 marked on 1844/48 Tithe Map
+album_49447886_453C_1844_4188_B6C052E68BC6_6.label = 1820 marked on 1844/48 Tithe Map
+album_49447886_453C_1844_4188_B6C052E68BC6_7.label = Tithe Map 1844 / 48
+album_49447886_453C_1844_4188_B6C052E68BC6_8.label = 1848 Ordnance Survey
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765.label = 1969
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_0.label = Turbine controls in the wheelhouse with Tachometer, output meter and water valve with position indicator.
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_1.label = 1969: McLaren generator stopped for lunch.
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_10.label = South Shed: Cooper crossrod loom making pajama stripes.
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_11.label = 1969: An alley of Pemberton looms weaving in the South Shed
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_12.label = The mill from the Turnpike bridge, 1969. New shed to the left, old shed to the right.
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_2.label = 1969: McLaren Diesel engines driving the looms 
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_3.label = 1969: Steam heating from 1950s packaged coal boiler and diesel exhausts.
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_4.label = 1969: Wheelhouse
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_5.label = 1969: Despatch area, sorting weft for pirn winding. Foulds lift on the left.
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_6.label = 1969: 1824 Mill Cellar with WB White streamer dobby & warp beams
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_7.label = 1969: Unique double leats entering the mill sluices for waterpower & steam
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_8.label = The mill from the turnpike bridge, 1969
+album_4B6FD750_451C_28DC_41C0_F77EC69CF765_9.label = Old North Shed, 1969
+album_4BEBC36A_4524_28CC_418B_E48B1E7E251D.label = Mill Plan Sequence
+album_4BEBC36A_4524_28CC_418B_E48B1E7E251D_0.label = 2006
+album_4BEBC36A_4524_28CC_418B_E48B1E7E251D_1.label = 1921 - 1971
+album_4BEBC36A_4524_28CC_418B_E48B1E7E251D_2.label = 1889 - 1921
+album_4BEBC36A_4524_28CC_418B_E48B1E7E251D_3.label = 1882 - 1889
+album_586BECF6_4AD0_9211_41CC_55B8455C59E3.label = Sketch
+album_586BECF6_4AD0_9211_41CC_55B8455C59E3_0.label = plan
+album_58C98F95_4D64_1844_41AC_DEA9193E1088.label = Photo Album engine_badge
+album_58C98F95_4D64_1844_41AC_DEA9193E1088_0.label = engine_badge
+album_59688E1F_4D7C_3844_41C8_92185272E803.label = Architectural Plans
+album_59688E1F_4D7C_3844_41C8_92185272E803_0.label = Rear Ground Floor Plan
+album_59688E1F_4D7C_3844_41C8_92185272E803_1.label = First and Second Floor Plans
+album_59688E1F_4D7C_3844_41C8_92185272E803_2.label = Ground Floor Plan
+album_59688E1F_4D7C_3844_41C8_92185272E803_3.label = Roof Plan
+album_59688E1F_4D7C_3844_41C8_92185272E803_4.label = Basement & Rear (upper) Ground Floor Plan
+album_59688E1F_4D7C_3844_41C8_92185272E803_5.label = First & Second Floor Plan
+album_59688E1F_4D7C_3844_41C8_92185272E803_6.label = Ground Floor Plan
+album_59688E1F_4D7C_3844_41C8_92185272E803_8.label = Waterwheel N-S section showing historic features
+album_59688E1F_4D7C_3844_41C8_92185272E803_9.label = Waterwheel E-W section showing historic features
+album_59D9D93C_4D6C_1844_41D1_4B5B995BD2F8.label = Architectural Elevations
+album_59D9D93C_4D6C_1844_41D1_4B5B995BD2F8_0.label = West Elevation
+album_59D9D93C_4D6C_1844_41D1_4B5B995BD2F8_1.label = South Elevation
+album_59D9D93C_4D6C_1844_41D1_4B5B995BD2F8_2.label = North Elevation
+album_59D9D93C_4D6C_1844_41D1_4B5B995BD2F8_3.label = East Elevation
+album_59D9D93C_4D6C_1844_41D1_4B5B995BD2F8_5.label = South East
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9.label = CAD
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_0.label = internal4
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_1.label = internal 13dit
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_10.label = external 4
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_11.label = external 3
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_12.label = external 2
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_13.label = external 1
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_2.label = internal 4
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_3.label = internal 3
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_4.label = internal 2edit
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_5.label = internal 2
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_6.label = internal 1
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_7.label = external 7
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_8.label = external 6
+album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_9.label = external 5
+panorama_333DD76A_392C_7507_41A9_E553DFE89605.label = Workers' Stairs: 1
+panorama_333DF580_392C_B503_41CC_25660AF2942A.label = Office Stairs
+panorama_3531D971_39E4_9D05_4199_0A691B5CA944.label = Pendle Water
+panorama_353284C3_39E4_6B05_4198_488FCF5A777B.label = Despatch: Door
+panorama_354C8EC3_39E4_B705_41CB_9B4D0D6227B9.label = Turnpike Bridge
+panorama_4CBADAA3_4079_AF13_41C9_009D84FC55A9.label = Outside: Chimney 6
+panorama_5E10B3E8_405E_62AE_41C5_7B83C8C3F882.label = Outside : Chimney or Bridge
+panorama_5E124B25_405F_A3A6_41B1_288B8C05493F.label = Outside: Bridge 6
+panorama_5E132006_405F_9D62_41BA_79A3EA622056.label = Outside: Bridge 7
+panorama_5E15E669_405F_A5AE_4193_AA84998D8A7C.label = Outside: Bridge 5
+panorama_5E16ED24_405F_E7A6_41A2_DF1A58DEB0C4.label = Outside: Bridge 3
+panorama_5E171222_405F_9DA2_41A9_19DCD63A0696.label = Outside: Bridge 4
+panorama_5E18B8D9_405F_EEEE_419B_B6EB5C1978AE.label = Outside: Bridge 1
+panorama_5E1AF45E_405F_A5E2_41CF_CB41B12E98D0.label = Outside: Bridge 2
+panorama_5E20FDE1_405E_66DE_41A6_A42B15E346F8.label = Outside: Chimney 10
+panorama_5E22D947_405E_AFE1_41AD_5280CB350835.label = Outside: Chimney 9
+panorama_5E23F4B9_405E_A6AE_41A7_BABCB209DE3E.label = Outside: Chimey 8
+panorama_5E245081_405E_9D5E_41B8_908E26EF48D3.label = Outside: Chimey 7
+panorama_5E25E25E_405E_7DE2_41C4_7F690D97C087.label = Outside: Chimney 11
+panorama_5E28F79E_405E_E362_41C1_6C3562B730C7.label = Outside: Chimey 5
+panorama_5E2903CE_405E_A2E2_41B7_89A99D7B1C74.label = Outside: Chimey 4
+panorama_5E2B404A_405E_BDE2_41C9_B3B81219D5A0.label = Outside: Chimney 3
+panorama_5E2DCC99_405E_A56E_41CB_F5ABB0F63224.label = Outside: Chimney 2
+panorama_5E2E4894_405E_6D66_41C5_F6D05DD8E106.label = Outside: Chimney 1
+panorama_5E46AFE1_405D_E2DE_41BF_49B46FD219EA.label = Outside: Chimney 12
+panorama_D0DC6D11_DC6D_0248_41DA_62F7DDEC8053.label = Weaving Shed: Entrance
+panorama_D78CF0E6_DC6F_03C8_41D3_DDFAA1F74F86.label = Weaving Shed: 1 1
+panorama_D7F082BF_DC6F_07B8_41B2_532627F4F00F.label = Weaving Shed:  2 1
+panorama_D7F301CC_DC6D_05D8_41D0_40591645D7E2.label = Despatch:  2 2
+panorama_D7F3035C_DC6D_06F8_41CB_F82BFA95727E.label = Water Power: Wheel Pit: Stairs
+panorama_D7F30577_DC6D_02C8_41E0_C63AEBFF72A7.label = Water Power: Entrance
+panorama_D7F31C1F_DC6D_0278_41CF_426C5D773A0E.label = Water Power: Doors
+panorama_D7F31CD6_DC6D_03C8_41E6_75436FAB2AF0.label = Despatch: 2 4
+panorama_D7F32DFB_DC6C_FDB8_41E2_7770BE19A2A6.label = Water Power: Wheel Pit: Drive Shaft
+panorama_D7F35217_DC6D_0648_41C0_C9D442D632AC.label = Water Power
+panorama_D7F36646_DC6D_0EC8_41D5_C7D4BAC80810.label = Water Power: Wheel Pit
+panorama_D7F36866_DC6D_02C8_418C_4594CF74C3B8.label = Despatch: Entrance
+panorama_D7F36CE7_DC6D_03C8_4191_E0E4F1359F0B.label = Despatch: 2 1
+panorama_D7F36E1F_DC6D_FE78_41DA_F69E4133A8A9.label = Despatch: 1 2
+panorama_D7F3A2BF_DC6D_07B8_41E1_D53FACB418AE.label = Despatch:  2 3
+panorama_D7F3CB80_DC6D_0648_41E7_76FCBCD23AB6.label = Despatch: Water Power: Vestibule
+panorama_D7F3E886_DC6D_0248_41E3_A2890E1BB8CC.label = Despatch: 1 3
+panorama_D7F3F700_DC6D_0E48_41D2_07CC69DC2C3B.label = Despatch: 1 4
+panorama_D7F40AB6_DC6F_0648_41D9_94120F25E3D7.label = Weaving Shed: 4 1
+panorama_D7F4227B_DC6F_06B8_41E7_0F0DE4AE1355.label = Weaving Shed: 1 2
+panorama_D7F454AB_DC6F_0258_41E7_5B68E854EA3F.label = Weaving Shed: 4 2
+panorama_D7F4710C_DC6D_0258_41D6_A319DBF8358A.label = Weaving Shed:  1 4
+panorama_D7F47ED4_DC6F_1FC8_41E7_C2C09110A042.label = Weaving Shed: 3 2
+panorama_D7F49645_DC6D_0EC8_41BB_9196D626E02B.label = Weaving Shed: 4 5
+panorama_D7F4A2C2_DC6D_07C8_41E8_526CA1B40CCA.label = Despatch: 1 1
+panorama_D7F4BAC7_DC6D_07C8_41D1_2FCE594D8474.label = Weaving Shed: 2 5
+panorama_D7F4C0BF_DC6D_03B8_41DF_FC83AC21D60E.label = Weaving Shed: 1 5
+panorama_D7F4CC0B_DC6D_0258_41E0_97F0FA92AEB5.label = Weaving Shed: 4 4
+panorama_D7F55705_DC6F_0E48_41E7_539A4AA5B967.label = Weaving Shed: 2 4
+panorama_D7F590F6_DC6F_03C8_41B7_68C77D8D965C.label = Weaving Shed: 3 3
+panorama_D7F59897_DC6F_0248_41E9_F366F72CCD83.label = Weaving Shed: 2 2
+panorama_D7F59CD5_DC6F_03C8_41EA_927C0C4784AD.label = Weaving Shed: 1 3
+panorama_D7F5BD0F_DC6F_0258_41CB_1AD218F0DA44.label = Weaving Shed: 4 3
+panorama_D7F5BE87_DC6F_1E48_41E1_75D85521C155.label = Weaving Shed: 3 1
+panorama_D7F5E6BB_DC6F_0FB8_41B2_33FE9E8B56CF.label = Weaving Shed: 2 3
+panorama_D7FD04B2_DC63_0248_41E6_3F037CB88D25.label = Water Power: Wheel Pit: Top
+panorama_D7FD0E4A_DC63_7ED8_41D8_7018F3AE9810.label = Water Power: Underneath the pen-trough: 2
+panorama_D7FD2ECB_DC63_3FD8_41E3_E96A7825986D.label = Water Power: Corridor
+panorama_D7FD3853_DC63_02C8_41E7_402F4D360B5D.label = Water Power: Wheel Pit: Pen Trough
+panorama_D7FD3976_DC63_02C8_41E5_AB55F7EB6CFC.label = Water Power: Corridor: 2
+panorama_D7FD4413_DC63_0248_41E0_7121742E82E1.label = Water Power: Underneath the pen-trough
+panorama_D7FDC8B6_DC63_0248_41E4_6B877DDF595C.label = Water Power: Underneath the pen trough: 3
+photo_54EFF637_452C_E844_41B0_3A09E3B898A4.label = 1824 marked on 1844/48 Tithe Map
+photo_54EFF637_452C_E844_41B0_3A09E3B898A4.label = 1824 marked on 1844/48 Tithe Map
+photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicycle, 1969
+photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicycle, 1969
