@@ -25,18 +25,16 @@ In the foreground a row of Pilling six shuttle circular box dobby \
 looms for coloured weaving.
 
 ### Subtitle
-album_49447886_453C_1844_4188_B6C052E68BC6.subtitle = A set of maps, showing the developmentof the mill at significant points
+album_49447886_453C_1844_4188_B6C052E68BC6.subtitle = How Higherford Mill has developed over it's lifetime
 
 ### Title
-album_49447886_453C_1844_4188_B6C052E68BC6.label = Map Sequence
+album_49447886_453C_1844_4188_B6C052E68BC6.label = Higherford Mill by Map
 album_49447886_453C_1844_4188_B6C052E68BC6_0.label = 1906 marked on 1844/48 Tithe Map
 album_49447886_453C_1844_4188_B6C052E68BC6_1.label = 1882 marked on 1844/48 Tithe Map
 album_49447886_453C_1844_4188_B6C052E68BC6_2.label = 1856 marked on 1844/48 Tithe Map
 album_49447886_453C_1844_4188_B6C052E68BC6_3.label = 1849 marked on 1844/48 Tithe Map
 album_49447886_453C_1844_4188_B6C052E68BC6_4.label = 1832 marked on 1844/48 Tithe Map
 album_49447886_453C_1844_4188_B6C052E68BC6_6.label = 1820 marked on 1844/48 Tithe Map
-album_49447886_453C_1844_4188_B6C052E68BC6_7.label = Tithe Map 1844 / 48
-album_49447886_453C_1844_4188_B6C052E68BC6_8.label = 1848 Ordnance Survey
 album_4B6FD750_451C_28DC_41C0_F77EC69CF765.label = 1969
 album_4B6FD750_451C_28DC_41C0_F77EC69CF765_0.label = Turbine controls in the wheelhouse with Tachometer, output meter and water valve with position indicator.
 album_4B6FD750_451C_28DC_41C0_F77EC69CF765_1.label = 1969: McLaren generator stopped for lunch.
@@ -163,13 +161,16 @@ photo_54EFF637_452C_E844_41B0_3A09E3B898A4.label = 1824 marked on 1844/48 Tithe 
 photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicycle, 1969
 photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicycle, 1969
 
+## Popup
+
+### Body
+htmlText_A451BFCD_843C_1F92_41C1_BD9F25DE6DBE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Way back at the beginning of the 1800s, there was an orchard here. There was no mill and no bridge. There were 2 sets of houses, either side of the trees, where the handloomers lived, part of a community of hundreds of weavers working at home, weaving cloth for the Grimshaw family business.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Up river was the packhorse bridge, there since the 1500s, supplying the town's trade from the turnpike road, and the handloomers with their cotton.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">1807, a new bridge was built to handle more trade. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The orchard was in a prime spot and Grimshaw decided to build a mill, right there, spinning quality yarn for the handloomers with cotton coming in from the turnpike trade and Pendle Water, the river, driving a waterwheel for power.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">By 1824 the mill was up and running!</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Take a look at the maps to get an idea of how Higherford Mill developed over its lifetime, and how it changed to meet new demands and harness new technologies. You can tour the mill, too, by pressing on the arrows.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+
+### Title
+window_A866A27B_843C_E176_41CD_94BAE8C113D1.title = Higherford Mill
+
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_5EA2D1B9_7C5C_23F2_41B6_EDDA28FC375E.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/pendle_water
 PopupWebFrameBehaviour_618343A9_7FCC_6792_41B3_21318CDD8E91.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/turnpike_bridge
-PopupWebFrameBehaviour_A031A1F1_83C4_6372_41B5_AB65CD3AEBA1.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/old_weaving_shed
-PopupWebFrameBehaviour_A09E519D_83CC_23B2_41BB_B522C3417FE1.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/main_building
-PopupWebFrameBehaviour_A0BA1B44_84C4_E092_41A9_B5921323120B.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/chimney
-PopupWebFrameBehaviour_A125094A_847C_E096_41C9_C734E34004C4.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/new_weaving_shed
-PopupWebFrameBehaviour_A1E27206_843C_209E_41D9_F3753FD605CE.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/blacksmiths
+PopupWebFrameBehaviour_A5CADE25_8444_6092_41C2_809251BBFBFC.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/handloom_weavers_houses
