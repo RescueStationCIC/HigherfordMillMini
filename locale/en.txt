@@ -162,3 +162,14 @@ photo_54EFF637_452C_E844_41B0_3A09E3B898A4.label = 1824 marked on 1844/48 Tithe 
 photo_54EFF637_452C_E844_41B0_3A09E3B898A4.label = 1824 marked on 1844/48 Tithe Map
 photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicycle, 1969
 photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicycle, 1969
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_5EA2D1B9_7C5C_23F2_41B6_EDDA28FC375E.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/pendle_water
+PopupWebFrameBehaviour_618343A9_7FCC_6792_41B3_21318CDD8E91.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/turnpike_bridge
+PopupWebFrameBehaviour_A031A1F1_83C4_6372_41B5_AB65CD3AEBA1.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/old_weaving_shed
+PopupWebFrameBehaviour_A09E519D_83CC_23B2_41BB_B522C3417FE1.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/main_building
+PopupWebFrameBehaviour_A0BA1B44_84C4_E092_41A9_B5921323120B.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/chimney
+PopupWebFrameBehaviour_A125094A_847C_E096_41C9_C734E34004C4.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/new_weaving_shed
+PopupWebFrameBehaviour_A1E27206_843C_209E_41D9_F3753FD605CE.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/blacksmiths
