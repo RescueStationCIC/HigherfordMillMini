@@ -9,6 +9,18 @@ tour.name = Higherford Mill Barrowford, Pendle
 
 ## Skin
 
+### Tab Panel
+TabPanelPage_9D8F2DCC_85B9_827C_41AE_E91FAC9FD473.label = 1832
+TabPanelPage_9D8F3DCC_85B9_827C_41DD_F1012D963A10.label = 1849 
+TabPanelPage_9D8FDDCD_85B9_827C_41CE_C15CD7D3C8EE.label = 1820
+TabPanelPage_9F836DFB_85A9_8224_41D5_B85AF4CBB471.label = 1906
+TabPanelPage_9F837DFB_85A9_8224_41C6_58CA17C10D1F.label = 1882
+TabPanelPage_A99081EE_8C4C_236E_41D6_80590C2AA556.label = 1832
+TabPanelPage_A99091EE_8C4C_236E_41A1_4FF1EF285B0E.label = 1849
+TabPanelPage_A990A1EE_8C4C_236E_41D0_029A31C59E25.label = 1820
+TabPanelPage_A990C1EE_8C4C_236E_41C1_D3AF6214E908.label = 1906
+TabPanelPage_A990E1EE_8C4C_236E_41CB_70315D2AA653.label = 1882
+
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
@@ -24,17 +36,7 @@ loom. \
 In the foreground a row of Pilling six shuttle circular box dobby \
 looms for coloured weaving.
 
-### Subtitle
-album_49447886_453C_1844_4188_B6C052E68BC6.subtitle = How Higherford Mill has developed over it's lifetime
-
 ### Title
-album_49447886_453C_1844_4188_B6C052E68BC6.label = Higherford Mill by Map
-album_49447886_453C_1844_4188_B6C052E68BC6_0.label = 1906 marked on 1844/48 Tithe Map
-album_49447886_453C_1844_4188_B6C052E68BC6_1.label = 1882 marked on 1844/48 Tithe Map
-album_49447886_453C_1844_4188_B6C052E68BC6_2.label = 1856 marked on 1844/48 Tithe Map
-album_49447886_453C_1844_4188_B6C052E68BC6_3.label = 1849 marked on 1844/48 Tithe Map
-album_49447886_453C_1844_4188_B6C052E68BC6_4.label = 1832 marked on 1844/48 Tithe Map
-album_49447886_453C_1844_4188_B6C052E68BC6_6.label = 1820 marked on 1844/48 Tithe Map
 album_4B6FD750_451C_28DC_41C0_F77EC69CF765.label = 1969
 album_4B6FD750_451C_28DC_41C0_F77EC69CF765_0.label = Turbine controls in the wheelhouse with Tachometer, output meter and water valve with position indicator.
 album_4B6FD750_451C_28DC_41C0_F77EC69CF765_1.label = 1969: McLaren generator stopped for lunch.
@@ -89,6 +91,11 @@ album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_6.label = internal 1
 album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_7.label = external 7
 album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_8.label = external 6
 album_5FFD3C36_4B30_9211_41BE_5952E9200FF9_9.label = external 5
+map_A9395A05_8C44_2092_41D9_12EFDD8E44B2.label = 1820
+map_ACB31F61_8C44_6092_41E0_1EC2857AB7E1.label = 1849
+map_ACBF7448_8C44_E092_41D2_FB75C1E1E95A.label = 1882
+map_AF081D62_8C44_6096_41E0_1A962BC77542.label = 1832
+map_AF429084_8C44_2192_41E0_812EC8DAC3BC.label = 1906
 panorama_333DD76A_392C_7507_41A9_E553DFE89605.label = Workers' Stairs: 1
 panorama_333DF580_392C_B503_41CC_25660AF2942A.label = Office Stairs
 panorama_3531D971_39E4_9D05_4199_0A691B5CA944.label = Pendle Water
@@ -156,21 +163,14 @@ panorama_D7FD3853_DC63_02C8_41E7_402F4D360B5D.label = Water Power: Wheel Pit: Pe
 panorama_D7FD3976_DC63_02C8_41E5_AB55F7EB6CFC.label = Water Power: Corridor: 2
 panorama_D7FD4413_DC63_0248_41E0_7121742E82E1.label = Water Power: Underneath the pen-trough
 panorama_D7FDC8B6_DC63_0248_41E4_6B877DDF595C.label = Water Power: Underneath the pen trough: 3
-photo_54EFF637_452C_E844_41B0_3A09E3B898A4.label = 1824 marked on 1844/48 Tithe Map
-photo_54EFF637_452C_E844_41B0_3A09E3B898A4.label = 1824 marked on 1844/48 Tithe Map
 photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicycle, 1969
 photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicycle, 1969
-
-## Popup
-
-### Body
-htmlText_A451BFCD_843C_1F92_41C1_BD9F25DE6DBE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Way back at the beginning of the 1800s, there was an orchard here. There was no mill and no bridge. There were 2 sets of houses, either side of the trees, where the handloomers lived, part of a community of hundreds of weavers working at home, weaving cloth for the Grimshaw family business.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Up river was the packhorse bridge, there since the 1500s, supplying the town's trade from the turnpike road, and the handloomers with their cotton.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">1807, a new bridge was built to handle more trade. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The orchard was in a prime spot and Grimshaw decided to build a mill, right there, spinning quality yarn for the handloomers with cotton coming in from the turnpike trade and Pendle Water, the river, driving a waterwheel for power.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">By 1824 the mill was up and running!</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Take a look at the maps to get an idea of how Higherford Mill developed over its lifetime, and how it changed to meet new demands and harness new technologies. You can tour the mill, too, by pressing on the arrows.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
-
-### Title
-window_A866A27B_843C_E176_41CD_94BAE8C113D1.title = Higherford Mill
 
 ## Action
 
 ### URL
 PopupWebFrameBehaviour_618343A9_7FCC_6792_41B3_21318CDD8E91.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/turnpike_bridge
 PopupWebFrameBehaviour_A5CADE25_8444_6092_41C2_809251BBFBFC.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/handloom_weavers_houses
+PopupWebFrameBehaviour_A96EA814_85F8_81EC_41DE_566E1F172C5E.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/intro
+PopupWebFrameBehaviour_AAC67E4A_85F9_BE64_41B5_40CDFFFF32CD.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/handloom_weavers_houses
+PopupWebFrameBehaviour_AC46F92E_85EF_823C_41D8_985D155CDACD.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/intro
