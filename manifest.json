@@ -38,7 +38,7 @@
    "sizes": "180x180"
   }
  ],
- "background_color": "#FFFFFF",
  "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "start_url": "index.htm?installed=true"
 }
