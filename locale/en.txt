@@ -98,15 +98,15 @@ map_ACB31F61_8C44_6092_41E0_1EC2857AB7E1.label = 1849
 map_ACBF7448_8C44_E092_41D2_FB75C1E1E95A.label = 1882
 map_AF081D62_8C44_6096_41E0_1A962BC77542.label = 1832
 map_AF429084_8C44_2192_41E0_812EC8DAC3BC.label = 1906
-map_B707CD24_85BB_822C_41D2_ACEED045F932.label = Today
-panorama_333DD76A_392C_7507_41A9_E553DFE89605.label = Workers' Stairs: 1
+map_D4988E28_F9CE_9DF4_41C6_DE50954E8365.label = Today
+panorama_333DD76A_392C_7507_41A9_E553DFE89605.label = Workers' Staircase
 panorama_333DF580_392C_B503_41CC_25660AF2942A.label = Office Stairs
 panorama_3531D971_39E4_9D05_4199_0A691B5CA944.label = Pendle Water
-panorama_353284C3_39E4_6B05_4198_488FCF5A777B.label = Warehouse Doors
+panorama_353284C3_39E4_6B05_4198_488FCF5A777B.label = Despatch Doors
 panorama_354C8EC3_39E4_B705_41CB_9B4D0D6227B9.label = Turnpike Bridge
 panorama_4CBADAA3_4079_AF13_41C9_009D84FC55A9.label = Outside: Chimney 6
 panorama_5E10B3E8_405E_62AE_41C5_7B83C8C3F882.label = Outside : Chimney or Bridge
-panorama_5E124B25_405F_A3A6_41B1_288B8C05493F.label = Outside: Bridge 6
+panorama_5E124B25_405F_A3A6_41B1_288B8C05493F.label = Packhorse Bridge
 panorama_5E132006_405F_9D62_41BA_79A3EA622056.label = Outside: Bridge 7
 panorama_5E15E669_405F_A5AE_4193_AA84998D8A7C.label = Outside: Bridge 5
 panorama_5E16ED24_405F_E7A6_41A2_DF1A58DEB0C4.label = Outside: Bridge 3
@@ -131,24 +131,24 @@ panorama_D7F301CC_DC6D_05D8_41D0_40591645D7E2.label = Despatch:  2 2
 panorama_D7F3035C_DC6D_06F8_41CB_F82BFA95727E.label = Water Power: Wheel Pit: Stairs
 panorama_D7F30577_DC6D_02C8_41E0_C63AEBFF72A7.label = Water Power: Entrance
 panorama_D7F31C1F_DC6D_0278_41CF_426C5D773A0E.label = Water Power: Doors
-panorama_D7F31CD6_DC6D_03C8_41E6_75436FAB2AF0.label = Despatch: 2 4
+panorama_D7F31CD6_DC6D_03C8_41E6_75436FAB2AF0.label = South Shed Entrance
 panorama_D7F32DFB_DC6C_FDB8_41E2_7770BE19A2A6.label = Water Power: Wheel Pit: Drive Shaft
-panorama_D7F35217_DC6D_0648_41C0_C9D442D632AC.label = Water Power
+panorama_D7F35217_DC6D_0648_41C0_C9D442D632AC.label = Powering the Milll: 1
 panorama_D7F36646_DC6D_0EC8_41D5_C7D4BAC80810.label = Water Power: Wheel Pit
-panorama_D7F36866_DC6D_02C8_418C_4594CF74C3B8.label = Warehouse Entrance
+panorama_D7F36866_DC6D_02C8_418C_4594CF74C3B8.label = The Warehouse
 panorama_D7F36CE7_DC6D_03C8_4191_E0E4F1359F0B.label = Despatch: 2 1
 panorama_D7F36E1F_DC6D_FE78_41DA_F69E4133A8A9.label = Despatch: 1 2
 panorama_D7F3A2BF_DC6D_07B8_41E1_D53FACB418AE.label = Despatch:  2 3
-panorama_D7F3CB80_DC6D_0648_41E7_76FCBCD23AB6.label = Despatch: Water Power: Vestibule
+panorama_D7F3CB80_DC6D_0648_41E7_76FCBCD23AB6.label = Spin It Weave It Make It: 3
 panorama_D7F3E886_DC6D_0248_41E3_A2890E1BB8CC.label = Despatch: 1 3
-panorama_D7F3F700_DC6D_0E48_41D2_07CC69DC2C3B.label = Despatch Area
+panorama_D7F3F700_DC6D_0E48_41D2_07CC69DC2C3B.label = Spin It Weave It Make It: 2
 panorama_D7F40AB6_DC6F_0648_41D9_94120F25E3D7.label = Weaving Shed: 4 1
 panorama_D7F4227B_DC6F_06B8_41E7_0F0DE4AE1355.label = Weaving Shed: 1 2
 panorama_D7F454AB_DC6F_0258_41E7_5B68E854EA3F.label = Weaving Shed: 4 2
 panorama_D7F4710C_DC6D_0258_41D6_A319DBF8358A.label = Weaving Shed:  1 4
 panorama_D7F47ED4_DC6F_1FC8_41E7_C2C09110A042.label = Weaving Shed: 3 2
 panorama_D7F49645_DC6D_0EC8_41BB_9196D626E02B.label = Weaving Shed: 4 5
-panorama_D7F4A2C2_DC6D_07C8_41E8_526CA1B40CCA.label = Despatch: 1 1
+panorama_D7F4A2C2_DC6D_07C8_41E8_526CA1B40CCA.label = Spin It Weave It Make It: 1
 panorama_D7F4BAC7_DC6D_07C8_41D1_2FCE594D8474.label = Weaving Shed: 2 5
 panorama_D7F4C0BF_DC6D_03B8_41DF_FC83AC21D60E.label = North Shed
 panorama_D7F4CC0B_DC6D_0258_41E0_97F0FA92AEB5.label = Weaving Shed: 4 4
@@ -163,7 +163,7 @@ panorama_D7FD04B2_DC63_0248_41E6_3F037CB88D25.label = Water Power: Wheel Pit: To
 panorama_D7FD0E4A_DC63_7ED8_41D8_7018F3AE9810.label = Water Power: Underneath the pen-trough: 2
 panorama_D7FD2ECB_DC63_3FD8_41E3_E96A7825986D.label = Water Power: Corridor
 panorama_D7FD3853_DC63_02C8_41E7_402F4D360B5D.label = Water Power: Wheel Pit: Pen Trough
-panorama_D7FD3976_DC63_02C8_41E5_AB55F7EB6CFC.label = Water Power: Corridor: 2
+panorama_D7FD3976_DC63_02C8_41E5_AB55F7EB6CFC.label = Powering the Mill: 2
 panorama_D7FD4413_DC63_0248_41E0_7121742E82E1.label = Water Power: Underneath the pen-trough
 panorama_D7FDC8B6_DC63_0248_41E4_6B877DDF595C.label = Water Power: Underneath the pen trough: 3
 photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicycle, 1969
@@ -174,12 +174,10 @@ photo_5EDA4D90_4B31_9211_4199_C5522075792A.label = The mill, and Anthony's bicyc
 ### URL
 PopupWebFrameBehaviour_618343A9_7FCC_6792_41B3_21318CDD8E91.url = https://docs.google.com/document/d/e/2PACX-1vRbSCkIPl66yQweDC9HFf2SoJqRfop1dH2p0VWoEPCwdB2kUpFVsonUqDXfRKDq1zbyPp0By_41GMJO/pub?embedded=true
 PopupWebFrameBehaviour_8495BCE1_8A92_82A6_41E3_30B5D7EC3C98.url = https://docs.google.com/document/d/e/2PACX-1vSnx_dMnWrN_Ej0CH6vdTS5A57nesNwJnotc3S-7dv_ROD0iWQKqRQm8d4EraLp7y1VuwyIxgc5a0VT/pub?embedded=true
-PopupWebFrameBehaviour_8499E781_9576_8F67_41CE_F7C8B01C4DB9.url = https://docs.google.com/document/d/e/2PACX-1vSUdiPGzi13RNSyoB7sEIGkDQgT7BkUwEykm6xY3XGbQgQZNNZ87z_ubLWNo8zRHZ7uWxgdeUXm6Y9-/pub?embedded=true
 PopupWebFrameBehaviour_84BED3C6_8A92_86ED_41DD_552BC6B1338A.url = https://docs.google.com/document/d/e/2PACX-1vSnx_dMnWrN_Ej0CH6vdTS5A57nesNwJnotc3S-7dv_ROD0iWQKqRQm8d4EraLp7y1VuwyIxgc5a0VT/pub?embedded=true
 PopupWebFrameBehaviour_92A941FA_8BB2_82A5_41D7_174FE14B1D00.url = https://docs.google.com/document/d/e/2PACX-1vSnx_dMnWrN_Ej0CH6vdTS5A57nesNwJnotc3S-7dv_ROD0iWQKqRQm8d4EraLp7y1VuwyIxgc5a0VT/pub?embedded=true
 PopupWebFrameBehaviour_92F60EB3_8BFD_BEAB_41B3_EA9AB11F2830.url = https://docs.google.com/document/d/e/2PACX-1vSrAYg2XJ2L2bgfOIhblqLjxrOwKiL4ta5YsCx1LvmgnZ0oAqkbbYmEC6bRsRACQVrQ_WE66y6kMaF-/pub?embedded=true
-PopupWebFrameBehaviour_95D0EB52_8A9D_87EA_41D9_6018D21B1637.url = https://docs.google.com/document/d/e/2PACX-1vS3tR5FDUvgtRGKkJdYqNeHP2-FLyUOkkbJsuqzcdCilDjNn6uUKzK5-FMEfgmGVGeDu72_HdJxIMuq/pub?embedded=true
-PopupWebFrameBehaviour_9732980D_8A95_817F_4197_90DF7234C9D6.url = https://docs.google.com/document/d/e/2PACX-1vRg1WbdfNR4yZfd5NVTZ73VFHH-1TQPrPL7pGcaZGWOlyauZAi4ApC0FnGuFd_JxFNPgPkqWN4VB-6Y/pub?embedded=true
+PopupWebFrameBehaviour_9732980D_8A95_817F_4197_90DF7234C9D6.url = https://docs.google.com/document/d/e/2PACX-1vSUSrpWHXiZkrFXua7BxP04uteIUYNhgLoLYh_TksjBJuarTShmVMkLbhR8PGD1N2uVMMPuIk984V2X/pub?embedded=true
 PopupWebFrameBehaviour_99C79228_8A9E_81A5_414D_C66A9C2C0670.url = https://docs.google.com/document/d/e/2PACX-1vQuCVvUwvhib4xfpX3or3DE_EMg9C2wk2yf05M0m0rhbwmKTPaLPatwYaxLRvk5UZB2q2o6xfVWIvtG/pub?embedded=true
 PopupWebFrameBehaviour_9C4BA6B4_8BAF_8EAD_41C3_A497A3C4B7AD.url = https://docs.google.com/document/d/e/2PACX-1vS0r-AQA0W56dix96CZO7ytGJ0uxLVTBOQfeLUXEcNl2fkSo3-PQ0bpBzYA3mke7lvU5TTvq12H8a3o/pub?embedded=true
 PopupWebFrameBehaviour_A65E5914_A9AB_563F_41CE_B4FE2EA85E73.url = https://docs.google.com/document/d/e/2PACX-1vQgg2YtUFwRCsXQ81gdudushQX2SAWouH2HcG5PEu-CNc457IAZs4HrkG35JsSxaDkRFV8dDVveVNGf/pub?embedded=true
@@ -190,10 +188,15 @@ PopupWebFrameBehaviour_B8565BF6_AAAF_A9FB_41D9_3CD60C2CF0C5.url = https://docs.g
 PopupWebFrameBehaviour_B86B32E8_AAB8_BA17_41AE_3A2E4DDF335E.url = https://docs.google.com/document/d/e/2PACX-1vQPOtg_HmI3frOt6knfoWIvYU-1PZYz-CmJ-6ZpOEmUeStQmbwnz2Y4NEiv3SfhwPxvKpJQeuxgDr-J/pub?embedded=true
 PopupWebFrameBehaviour_B87D1BC8_AABB_AA17_41E4_1C42E0827531.url = https://docs.google.com/document/d/e/2PACX-1vQPOtg_HmI3frOt6knfoWIvYU-1PZYz-CmJ-6ZpOEmUeStQmbwnz2Y4NEiv3SfhwPxvKpJQeuxgDr-J/pub?embedded=true
 PopupWebFrameBehaviour_B892ED0D_AAD9_6E29_41C6_A0DB00454F2B.url = https://docs.google.com/document/d/e/2PACX-1vQnt8P3iSRk4b86wFoBWwdaSd4kwwNFqcDiq8xhlkkFS_GY7oRc3kGn3o3i1IKo02eqVUp02nuUh_7R/pub?embedded=true
-PopupWebFrameBehaviour_B8CF898F_AABB_7629_41CB_1F138FFFDC55.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/beam_engine_shaft
+PopupWebFrameBehaviour_B8CF898F_AABB_7629_41CB_1F138FFFDC55.url = https://docs.google.com/document/d/e/2PACX-1vRqORGQ2x7W9mqR9-1I_2OXm_SC0_yTOM-MrG1FPd-DkRU_40hH8HzdPKjp2aHW_ov2ECRriFoC0Twj/pub?embedded=true
 PopupWebFrameBehaviour_BA85F428_AA69_5E17_41B2_195B3269D9E4.url = https://docs.google.com/document/d/e/2PACX-1vTOfwSh3oSUdcriInTxsshrcagTyDLF-PYzWe0rcocCuVEd5dr7GefhvopWj8IHZsGzqOhMIw4LKi1Q/pub?embedded=true
 PopupWebFrameBehaviour_BBEE8F94_AFA7_20B6_41D1_310999763EED.url = https://docs.google.com/document/d/e/2PACX-1vThAKelkbKbQZihDvxDoPTFGqg0YYeWP8y1VdpTtMM5uBe6f-EOouVl3m60eaPtGd3SvAjH4QOAWkoC/pub?embedded=true
 PopupWebFrameBehaviour_BCCE8110_AEA1_218E_41E3_6D679DB80981.url = https://docs.google.com/document/d/e/2PACX-1vQPOtg_HmI3frOt6knfoWIvYU-1PZYz-CmJ-6ZpOEmUeStQmbwnz2Y4NEiv3SfhwPxvKpJQeuxgDr-J/pub?embedded=true
 PopupWebFrameBehaviour_BCF2291B_AF61_E1B2_41E4_42040079006E.url = https://docs.google.com/document/d/e/2PACX-1vRofr1sQeeQFJqt30UraMBKcssa8yrfWoOP4KCT_YVJkNilACfUcCLLtFkwxHW01pCkteuCBdTp7kX4/pub?embedded=true
 PopupWebFrameBehaviour_BD7EF043_AE9F_5F92_41B7_30F51F9F8FE4.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/higherford_mill/info_points/beamengine
-PopupWebFrameBehaviour_BFC57887_8AF2_816B_41D5_A6EDF71BB441.url = https://docs.google.com/document/d/e/2PACX-1vQxIkyBQ0iblYradc8egn7LKdSXNsL-_6jlIv4KrybhXHqCq9yVq5Dl3ePf3NjylnoG4SzRYLNaGl5B/pub?embedded=true
+PopupWebFrameBehaviour_E0468D07_F746_7FBD_41EA_EFEC8DDA0B59.url = https://docs.google.com/document/d/e/2PACX-1vQXQGDOoqsKjkX7Db_HcLApiZzUkMSQqJnkcLdb4gtb0fCKMrb_88xp1zSe9X1IWkSHzDwyyReHULgF/pub?embedded=true
+PopupWebFrameBehaviour_E3BF2895_F74D_86DD_41EA_16972ABABB31.url = https://docs.google.com/document/d/e/2PACX-1vRg1WbdfNR4yZfd5NVTZ73VFHH-1TQPrPL7pGcaZGWOlyauZAi4ApC0FnGuFd_JxFNPgPkqWN4VB-6Y/pub?embedded=true
+PopupWebFrameBehaviour_E4B1E7D4_F6BF_8A53_41D5_0F684FCCBAD4.url = https://docs.google.com/document/d/e/2PACX-1vS3tR5FDUvgtRGKkJdYqNeHP2-FLyUOkkbJsuqzcdCilDjNn6uUKzK5-FMEfgmGVGeDu72_HdJxIMuq/pub?embedded=true
+PopupWebFrameBehaviour_E5DD91B5_F745_86DD_41E6_360A3027CD3B.url = https://docs.google.com/document/d/e/2PACX-1vQxIkyBQ0iblYradc8egn7LKdSXNsL-_6jlIv4KrybhXHqCq9yVq5Dl3ePf3NjylnoG4SzRYLNaGl5B/pub?embedded=true
+PopupWebFrameBehaviour_E67B4224_F6C5_85F3_41EA_8A0B65430A75.url = https://docs.google.com/document/d/e/2PACX-1vSUdiPGzi13RNSyoB7sEIGkDQgT7BkUwEykm6xY3XGbQgQZNNZ87z_ubLWNo8zRHZ7uWxgdeUXm6Y9-/pub?embedded=true
+PopupWebFrameBehaviour_EE3E6BF3_F75F_9A55_41E9_5F2BAE521017.url = https://docs.google.com/document/d/e/2PACX-1vRGYiAdPJ6aHaupRYK05ZaRStAERodlEo5ko3lDx3oFYH2K-S27zmK05t0OWNOGVLD_MQatBgYPTaA1/pub?embedded=true
