@@ -1,7 +1,5 @@
 {
- "theme_color": "#FFFFFF",
  "name": "Higherford Mill Barrowford, Pendle",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -39,6 +37,8 @@
    "sizes": "180x180"
   }
  ],
- "start_url": "index.htm",
- "display": "fullscreen"
+ "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm"
 }
